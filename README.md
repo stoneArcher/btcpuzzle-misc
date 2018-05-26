@@ -26,7 +26,7 @@ Maybe coincidence, but one word for each color group evenly (or nearly evenly) d
 -----------------------------------------------------------------------------------------------------------
 <h2>5-23-2018 Work So Far:</h2>
 
-<img src="https://image.ibb.co/i72eAo/overlay_BP1080x720.png" alt="overlay_BP1080x720" border="0">
+<img src="https://image.ibb.co/e0f6vo/overlay_BP1080x720.png" alt="overlay_BP1080x720" border="0">
 
 <p>Edit: Numbers in inner circle are colored to make them stand out, circles and ellipses of different colors around mnemonic words corresponding to numbers are also shown. Words that are gray or orange are not mnemonic.</p>
 <br>
