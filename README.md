@@ -2,7 +2,7 @@
 Miscellaneous work on <a href="https://bit.ly/2GSCoqq">cryptogreetings' 1 BTC Puzzle</a>
 <br>
 
-Rainbow Grid created 5-25-2018 and associated notes:
+<h2>Rainbow Grid created 5-25-2018 and associated notes:</h2>
 <br>
 Latest rendition in case it's helpful.<br>
 <img src="https://image.ibb.co/b5GPgT/puzzle_rainbowgrid.png" alt="puzzle_rainbowgrid" border="0">
