@@ -1,5 +1,6 @@
 # btcpuzzle-misc
-Miscellaneous work on cryptogreetings' 1 BTC Puzzle
+Miscellaneous work on <a href="https://bit.ly/2GSCoqq">cryptogreetings' 1 BTC Puzzle</a>
+<br>
 
 Rainbow Grid created 5-25-2018 and associated notes:
 <br>
